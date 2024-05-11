@@ -179,7 +179,7 @@
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
-  <p><a href="https://holopin.io/@mounirbenromdhane"><img src="https://holopin.me/mounirbenromdhane" alt="@wadhahzoldyck&#39;s Holopin board"></a></p>
+  <p><a href="[https://holopin.io/@mounirbenromdhane](https://holopin.me/wadhahzoldyck)"><img src="https://holopin.me/wadhahzoldyck" alt="@wadhahzoldyck&#39;s Holopin board"></a></p>
 </details>
 
 <br>
