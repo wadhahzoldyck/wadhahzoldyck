@@ -35,7 +35,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wadhahzoldyck).
 - 🤝 &nbsp; Welcom for everyone who need help or collaborator.
 - 🥅 &nbsp; 2023 Goals: *********.
-- 💬 &nbsp; Ask me about anything (within reason) [here](https://www.linkedin.com/in/wadhahzoldyck-a253a3228/)! I will be happy to help.
+- 💬 &nbsp; Ask me about anything (within reason) [here](https://www.linkedin.com/in/wadhah-naggui-a253a3228/)! I will be happy to help.
 - 📫 &nbsp; How to reach me: wadhah.naggui@gmail.com &nbsp;
 - 😄 &nbsp; Pronouns: ... He/Him/His
 - 👾 &nbsp; Fun fact: ... “A quitter never wins and a winner never quits.”
@@ -50,8 +50,8 @@
 <p align = "center">
   
 [<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/wadhahzoldyck) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/wadhahzoldyck-a253a3228/)
-[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />]([https://www.facebook.com/profile.php?id=100010083316874](https://www.facebook.com/wadhah.09/))
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/wadhah-naggui-a253a3228/)
+[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/wadhah.09/))
 
 [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:wadhah.naggui@gmail.com)
 </p>
